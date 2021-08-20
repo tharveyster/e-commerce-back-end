@@ -91,6 +91,7 @@ router.delete('/:id', async (req, res) => {
     res.status(200).json(categoryData);
   } catch (err) {
     res.status(500).json(err);
-  }});
+  }
+});
 
 module.exports = router;

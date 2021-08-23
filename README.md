@@ -58,7 +58,7 @@ localhost:3001/api/categories/5
 Then use the following JSON data as the body:
 ```bash
 {
-	"category_name": "Footwear"
+  "category_name": "Footwear"
 }
 ```
 
@@ -84,7 +84,7 @@ localhost:3001/api/tags/
 Then use the following JSON data as the body:
 ```bash
 {
-	"tag_name": "orange"
+  "tag_name": "orange"
 }
 ```
 
@@ -95,7 +95,7 @@ localhost:3001/api/tags/7
 Then use the following JSON data as the body:
 ```bash
 {
-	"tag_name": "purple"
+  "tag_name": "purple"
 }
 ```
 

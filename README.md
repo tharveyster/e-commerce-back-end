@@ -23,7 +23,7 @@ npm run seed
 ```
 
 ## Usage
-To launch the app run the following commands in the root of your project:
+To launch the app run the following command in the root of your project:
 ```bash
 npm start
 ```

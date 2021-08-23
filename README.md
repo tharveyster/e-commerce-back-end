@@ -1,8 +1,10 @@
 # E-Commerce Back End
 
 ## Description
+This project is an e-commerce back-end application that uses Node.js, Express.js, MySQL2, Sequelize, dotenv, and Insomnia Core. This readme contains suggestion for Insomnia Core to verify proper functionality of the app.
 
 ## Walkthrough Video
+A walthrough video is available at [this link](https://drive.google.com/file/d/17oLpM-PeuqrqMFMzOfQr04hDl0CEhrkR/view).
 
 ## Installation
 To install necessary dependencies run the following command in the root of your project:

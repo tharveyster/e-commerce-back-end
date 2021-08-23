@@ -1,4 +1,5 @@
 # E-Commerce Back End
+[![ISC License badge](https://img.shields.io/github/license/tharveyster/e-commerce-back-end?style=plastic)](https://opensource.org/licenses/ISC)
 
 ## Description
 This project is an e-commerce back-end application that uses Node.js, Express.js, MySQL2, Sequelize, dotenv, and Insomnia Core. This readme contains suggestion for Insomnia Core to verify proper functionality of the app.

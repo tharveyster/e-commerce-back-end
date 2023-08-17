@@ -160,7 +160,7 @@ localhost:3001/api/products/2
 ```
 
 ## Questions
-If you have questions about this repo, open an issue or contact me directly at todd@theharveysplace.com. You can find more of my work at [tharveyster](https://github.com/tharveyster).
+If you have questions about this repo, open an issue or contact me directly at todd@weloveeats.com. You can find more of my work at [tharveyster](https://github.com/tharveyster).
 
 ## License
 ISC
